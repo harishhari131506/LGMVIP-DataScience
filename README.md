@@ -1,4 +1,0 @@
-# LGMVIP-DataScience
-Projects done for let's grow more internship .
-
-In this project the iris data was analysed and predicted all features with 98 % accuracy . 
